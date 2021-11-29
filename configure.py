@@ -1,0 +1,9 @@
+URL = "https://mystifying-beaver-ee03b5.netlify.app/"
+Chrome_DRIVER = './/lib//chromedriver'
+SELECRTED_DROP_DOWN = "Number of cases"
+DROP_DOWN = {"Name": 1, "Number of cases": 2, "Impact score": 3, "Complexity": 4}
+SORT_SELECT = "sort-select"
+ID = "id"
+XPATH = "xpath"
+LINK_TEXT = "linktext"
+CLASS = "class"
